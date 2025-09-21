@@ -1,4 +1,4 @@
-# 📌 Gerenciamento de Processos com Round Robin
+# 📝 Gerenciamento de Processos com Round Robin
 Este projeto implementa o algoritmo de escalonamento **Round Robin** para simular o controle de processos em um sistema. A simulação demonstra a execução de processos de forma justa, atribuindo a cada um um tempo fixo de CPU (quantum) em um ciclo contínuo.
 
 O principal objetivo é visualizar a sequência de execução de múltiplos processos até que todos sejam concluídos, calculando e exibindo métricas de desempenho essenciais, como o tempo de espera e o tempo de retorno de cada processo.
